@@ -1,0 +1,28 @@
+.card {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;}
+
+.box{
+    box-shadow: 0 -20px 10px -20px rgba(0,0,0,0.45) inset, 20px 0 10px -20px rgba(0,0,0,0.45) inset;
+}
+
+@media (max-width:700px){
+#marginBox{
+    margin-top: 4vw;
+}
+}
+
+#ulproperty{
+    padding-left: 4vw;
+}
+#ulproperty li{
+padding-top: 1.2vw;
+font-size: 1.5vw;
+font:400;
+
+
+}
+
+#vertical a{
+color: white;
+ 
+}
